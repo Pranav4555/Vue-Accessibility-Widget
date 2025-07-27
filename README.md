@@ -1,1 +1,0 @@
-# Vue-Accessibility-Widget
