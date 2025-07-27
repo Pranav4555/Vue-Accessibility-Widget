@@ -8,20 +8,20 @@
     </div>
     <!-- Accessibility Demo Content -->
     <div style="max-width:600px;margin:64px auto;padding:24px;border-radius:16px;background:#f4f4fb;">
-      <h1>Main Heading (h1)</h1>
+      <h1>Main Heading </h1>
       <p>
         This paragraph contains a
         <a href="#">Test Link</a> and another
         <a href="#" title="About link">About us</a>.
       </p>
-      <h2>Section Heading (h2)</h2>
+      <h2>Section Heading </h2>
       <img src="C:\Users\prana\OneDrive\Desktop\Fullstack_Project\widget\src\assets\cat.png" alt="Kitten image">
       <h3>Animation Demo</h3>
       <div class="spinBox"></div>
       <h4>More Links and Images</h4>
       <a href="#" title="Another link">Another Link</a>
       <img src="C:\Users\prana\OneDrive\Desktop\Fullstack_Project\widget\src\assets\vue.svg" alt="Logo image">
-      <p>Try the <b>Pause Animations</b>, <b>Show Tooltips</b>, <b>Big Cursor</b>, and <b>Dyslexia font</b>!</p>
+
     </div>
   </div>
 </template>
