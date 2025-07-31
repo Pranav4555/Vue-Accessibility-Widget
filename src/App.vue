@@ -15,12 +15,12 @@
         <a href="#" title="About link">About us</a>.
       </p>
       <h2>Section Heading </h2>
-      <img src="C:\Users\prana\OneDrive\Desktop\Fullstack_Project\widget\src\assets\cat.png" alt="Kitten image">
+      <img src="C:\Users\prana\OneDrive\Desktop\Projects\Vue-Accessibility-widget\widget\src\assets\cat.png" alt="Kitten image">
       <h3>Animation Demo</h3>
       <div class="spinBox"></div>
       <h4>More Links and Images</h4>
       <a href="#" title="Another link">Another Link</a>
-      <img src="C:\Users\prana\OneDrive\Desktop\Fullstack_Project\widget\src\assets\vue.svg" alt="Logo image">
+      <img src="C:\Users\prana\OneDrive\Desktop\Projects\Vue-Accessibility-widget\widget\src\assets\vue.svg" alt="Logo image">
 
     </div>
   </div>
